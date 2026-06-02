@@ -1,0 +1,24 @@
+{
+  "name": "Learn_Store",
+  "short_name": "Learn_Store",
+  "description": "Install the five learning apps, publish your own apps, and ask the Learn_Store help agent.",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#efe7d8",
+  "theme_color": "#b5512f",
+  "icons": [
+    {
+      "src": "assets/logo.svg",
+      "sizes": "48x48",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "assets/logo.png",
+      "sizes": "1024x1024",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
